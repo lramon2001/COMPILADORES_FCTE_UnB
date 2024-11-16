@@ -7,5 +7,11 @@ Eu, Lucas Ramon, criei esse repositório para documentar meu aprendizado assim c
 Um abraço e que esse repositório seja um facilitador do seu aprendizado!!!!
 
 - [Lucas Ramon](https://github.com/lramon2001);
-- [Malu](https://github.com/marialuisa214)
+- [Malu](https://github.com/marialuisa214).
+
+  ## Expressões Regulares
+
+  O professor inicialmente exercitou em aula o uso do comando grep a fim de demonstrar o funcionamento de regexs. Para isso ele passou uma série de 19 exercicios de treino livre.
+
+  
 
