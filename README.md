@@ -32,5 +32,11 @@ Um abraço e que esse repositório seja um facilitador do seu aprendizado!!!!
 
   <b>Clique [aqui]() para ver as soluções.</b>
 
-  
+  ## AFD e AFN
 
+  O professor após tratar sobre expressões regulares, passou a ensinar sobre autômatos inicialmente os determinísticos e ,em um segundo momento, os não determinísticos. O professor sugeriu esses dois exercícios listados.
+  - Meus AFD simples[](https://moj.naquadah.com.br/cgi-bin/questao.sh/moj-problems%23afd_simples);
+  - Meus AFN simples[](https://moj.naquadah.com.br/cgi-bin/questao.sh/moj-problems%23afn_simples);
+
+
+  <b>Clique [aqui]() para ver as soluções.</b>
