@@ -3,8 +3,7 @@ Compiladores_FGA_UnB - Repositório criado para a disciplina de Compiladores min
 
 # Colaboradoes
 
-Eu, Lucas Ramon, criei esse repositório para documentar meu aprendizado assim como ajudar você, meu(minha) camarada, a passar nessa disciplina de compiladores do Professor Ribas em um semestre depois desse 2.2024. Para isso contei com a ajuda da minha amiga Malu e suas anotações caprichadas além de seus códigos tão bem escritos. Obrigado,Malu.
-Um abraço e que esse repositório seja um facilitador do seu aprendizado!!!!
+Eu, Lucas Ramon, criei este repositório com o objetivo de documentar meu aprendizado e ajudar você, colega, a superar a disciplina de Compiladores ministrada pelo Professor Ribas em semestres futuros, após o período 2022.2, que é quando estou cursando. Para essa iniciativa, contei com o suporte da minha amiga Malu, que gentilmente compartilhou suas anotações detalhadas e seus códigos bem estruturados. Obrigado, Malu! Espero que este repositório se torne um valioso recurso para o seu aprendizado e jornada acadêmica. Um abraço!
 
 - [Lucas Ramon](https://github.com/lramon2001);
 - [Malu](https://github.com/marialuisa214).
