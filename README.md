@@ -37,8 +37,8 @@ Eu, Lucas Ramon, criei este repositório com o objetivo de documentar meu aprend
   ## AFD e AFN
 
   O professor após tratar sobre expressões regulares, passou a ensinar sobre autômatos inicialmente os determinísticos e ,em um segundo momento, os não determinísticos. O professor sugeriu esses dois exercícios listados.
-  - Meus AFD simples[](https://moj.naquadah.com.br/cgi-bin/questao.sh/moj-problems%23afd_simples);
-  - Meus AFN simples[](https://moj.naquadah.com.br/cgi-bin/questao.sh/moj-problems%23afn_simples);
+  - [Meus AFD simples](https://moj.naquadah.com.br/cgi-bin/questao.sh/moj-problems%23afd_simples);
+  - [Meus AFN simples](https://moj.naquadah.com.br/cgi-bin/questao.sh/moj-problems%23afn_simples);
 
 
   <b>Clique [aqui]() para ver as soluções.</b>
