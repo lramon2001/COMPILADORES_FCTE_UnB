@@ -9,6 +9,9 @@ Um abraço e que esse repositório seja um facilitador do seu aprendizado!!!!
 - [Lucas Ramon](https://github.com/lramon2001);
 - [Malu](https://github.com/marialuisa214).
 
+ <b>Clique [aqui]() para ver as anotações da Malu.</b>
+
+
   ## Expressões Regulares
 
   O professor inicialmente exercitou em aula o uso do comando grep a fim de demonstrar o funcionamento de regexs. Para isso ele passou uma série de 16 exercicios de treino livre. Os exercicios estão listados em ordem crescente de dificuldade conforme foi sugerido no [site do professor](https://www.brunoribas.com.br/compiladores/2024-2/)
